@@ -34,8 +34,8 @@ namespace RandomStudentPicker
         private Label lblProgress;
 
         // Colori personalizzati
-        private static readonly Color PrimaryColor = Color.FromArgb(63, 81, 181);    // Material Indigo
-        private static readonly Color AccentColor = Color.FromArgb(255, 64, 129);    // Material Pink
+        private static readonly Color PrimaryColor = Color.FromArgb(63, 81, 181);    
+        private static readonly Color AccentColor = Color.FromArgb(255, 64, 129);    
         private static readonly Color BackgroundColor = Color.FromArgb(250, 250, 250);
         private static readonly Color TextColor = Color.FromArgb(33, 33, 33);
         private static readonly Color SecondaryTextColor = Color.FromArgb(117, 117, 117);
